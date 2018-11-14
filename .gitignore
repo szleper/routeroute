@@ -1,0 +1,4 @@
+*DS_Store
+.firebase
+.firebaserc
+*node_modules
